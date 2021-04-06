@@ -1,0 +1,1 @@
+# Codility-Type-Question-Practice
