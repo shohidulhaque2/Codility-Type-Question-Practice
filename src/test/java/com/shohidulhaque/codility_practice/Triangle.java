@@ -1,4 +1,4 @@
-package com.example.demo.codility_practice;
+package com.shohidulhaque.codility_practice;
 
 import org.assertj.core.api.Assertions;
 

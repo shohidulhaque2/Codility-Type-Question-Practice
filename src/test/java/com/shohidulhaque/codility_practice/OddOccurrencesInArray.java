@@ -1,4 +1,4 @@
-package com.example.demo.codility_practice;
+package com.shohidulhaque.codility_practice;
 
 import java.util.HashSet;
 import java.util.Set;
